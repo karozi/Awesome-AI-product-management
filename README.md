@@ -2,6 +2,10 @@
 A curated list of tools, frameworks, articles, and resources for modern product managers. Includes ethical UX, AI workflows, discovery techniques, and team rituals to build thoughtful, high-impact products.
 A growing library of hand-picked tools, templates, and resources across every stage of product work.
 
+## Prompt Engineering
+[Anthropic Prompt Engineering](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview)
+
+
 ## Micro-lessons for Product Managers
 [20 Product Team Lessons in 4 Minutes](https://karozieminski.substack.com/p/20-product-team-lessons-in-4-minutes)
 
