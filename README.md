@@ -6,7 +6,7 @@ A growing library of hand-picked tools, templates, and resources across every st
 [Anthropic Prompt Engineering](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview)
 
 
-## Micro-lessons for Product Managers
+## Nano-lessons for Product Managers
 [20 Product Team Lessons in 4 Minutes](https://karozieminski.substack.com/p/20-product-team-lessons-in-4-minutes)
 
 ## Workshop Guides
