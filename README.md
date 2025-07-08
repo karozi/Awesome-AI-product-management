@@ -19,7 +19,7 @@ A growing library of hand-picked tools, templates, and resources across every st
 [How To Implement Hyper-personalization Without Creeping People Out](https://karozieminski.substack.com/p/how-to-implement-hyper-personalization)
 
 **Best Product Blogs 2025 - Emerging Voices**
-
+[Perplexity Research: Emerging PM voices on Substack](https://www.perplexity.ai/search/e8d7af5d-cbdd-488f-af20-2ae70f027cd9)
 [See the curated directory of best blogs and newsletters in 2025](https://karozieminski.substack.com/p/are-you-a-product-person-lost-on)
 
 **Roadmaps**
