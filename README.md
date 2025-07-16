@@ -9,7 +9,9 @@ A growing library of hand-picked tools, templates, and resources across every st
 [Best AI product blogs and newsletters in 2025](https://karozieminski.substack.com/p/are-you-a-product-person-lost-on)
 
 **Building in Public**
+
 [I Broke Replit So You Don't Have To: Building StackShelf](https://karozieminski.substack.com/p/i-broke-replit-so-you-dont-have-to)
+
 [Building A Multi-Sided Platform for Creators](https://karozieminski.substack.com/p/how-i-ended-up-building-a-digital)
 
 
