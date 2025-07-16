@@ -1,6 +1,5 @@
 # Awesome-AI-Product-Management
-A curated list of tools, frameworks, articles, and resources for modern product managers. Includes ethical UX, AI workflows, discovery techniques, and team rituals to build thoughtful, high-impact products.
-A growing library of hand-picked tools, templates, and resources across every stage of product work.
+A growing list of tools, frameworks, articles, and resources for AI product managers. Includes ethical UX, AI workflows, discovery techniques, and team rituals to build thoughtful, high-impact products. 
 
 ### Best Product Blogs 2025 - Emerging Voices
 
