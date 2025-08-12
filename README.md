@@ -2,7 +2,10 @@
 A growing list of tools, frameworks, articles, and resources for AI product managers. Includes ethical UX, AI workflows, discovery techniques, and team rituals to build thoughtful, high-impact products. 
 
 ### Books for PMs, Founders & Solopreneurs
-[See list](https://benable.com/karo_z/books)
+
+A ruthless edit of books that actually move the needle on product, UX, and thinking clearly. It's basically a cheat sheet for anyone who wants to build or sharpen their product sense. 
+
+[👉 See list](https://benable.com/karo_z/books)
 
 
 ### Best Product Blogs 2025 - Emerging Voices
