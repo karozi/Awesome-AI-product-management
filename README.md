@@ -1,6 +1,10 @@
 # Awesome-AI-Product-Management
 A growing list of tools, frameworks, articles, and resources for AI product managers. Includes ethical UX, AI workflows, discovery techniques, and team rituals to build thoughtful, high-impact products. 
 
+### Books for PMs, Founders & Solopreneurs
+[See list](https://benable.com/karo_z/books)
+
+
 ### Best Product Blogs 2025 - Emerging Voices
 
 [Perplexity Research: Emerging PM voices on Substack](https://www.perplexity.ai/search/e8d7af5d-cbdd-488f-af20-2ae70f027cd9)
